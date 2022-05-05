@@ -1,0 +1,5 @@
+1. ติดตั้ง MongoDB และ  Nodejs ให้เรียบร้อย
+2. เปิด command line ที่โฟล์เดอร์  client ใช้คำสั่ง npm install เพื่อติดตั้ง library ต่างๆ
+3. เปิด command line ที่โฟล์เดอร์  server ใช้คำสั่ง npm install เพื่อติดตั้ง library ต่างๆ 
+4. เปิด command line ที่โฟล์เดอร์  server ใช้คำสั่ง npm start เพื่อเริ่มการทำงานในส่วนของ server ควรเริ่มต้นการทำงานจากฝั่ง server ก่อน
+5. เปิด command line ที่โฟล์เดอร์  client ใช้คำสั่ง npm start เพื่อเริ่มการทำงานในส่วนของ client 
